@@ -2,8 +2,8 @@ Package: nnGarrote
 Type: Package
 Title: Non-Negative Garrote Estimation with Penalized Initial
         Estimators
-Version: 1.0.3
-Date: 2020-07-05
+Version: 1.0.4
+Date: 2021-10-05
 Author: Anthony Christidis <anthony.christidis@stat.ubc.ca>,
     Stefan Van Aelst <stefan.vanaelst@kuleuven.be>,
     Ruben Zamar <ruben@stat.ubc.ca>
@@ -14,10 +14,10 @@ Description: Functions to compute the non-negative garrote estimator as
              Yuan and Lin (2007) <https://www.jstor.org/stable/4623260>.
 License: GPL (>= 2)
 Biarch: true
-Imports: multicool, glmnet, caret
-RoxygenNote: 7.0.2
+Imports: glmnet
+RoxygenNote: 7.1.1
 Suggests: testthat, mvnfast
 NeedsCompilation: no
-Packaged: 2020-07-06 00:59:36 UTC; antho
+Packaged: 2021-10-06 18:27:11 UTC; antho
 Repository: CRAN
-Date/Publication: 2020-07-06 09:20:12 UTC
+Date/Publication: 2021-10-07 07:40:19 UTC
